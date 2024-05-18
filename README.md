@@ -1,12 +1,12 @@
-# 方块工作室 ($NBS$)
+# 方块工作室 (NBS)
 所有者：[imzfx_Spuare](https://www.luogu.com.cn/user/671481)
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/yt049xc3.png)
-这是 $NBS$ 的内部团队的总和，包括
-- $NBS-OI$ 出题组，
-- $NBS-MC$ 中 $NMCL$ (老版本) 和 $RMCL$ （即将重写的新版本）的编写组，
-- $NBS-AI$ 的 $GPT$ $C++$ $api$ 项目开发组
-- $颓废组 & 吃瓜组$
+这是 NBS 的内部团队的总和，包括
+- NBS-OI 出题组，
+- NBS-MC 中 NMCL (老版本) 和 RMCL （即将重写的新版本）的编写组，
+- NBS-AI 的 GPT C++ api 项目开发组
+- 颓废组 & 吃瓜组
 
 在这个团队
 1. 禁止偷团队（后果如 [lmzfx（当场举报 + 封禁）](https://www.luogu.com.cn/user/1351387)）
@@ -32,7 +32,7 @@ B：再说我也不是所有者
 A：我盗另一个
 B：？
 ```
-至于 $A$ 和 $B$是谁这里不过多描述
+至于 A 和 B是谁这里不过多描述
 
 ### END
 ###### ~~你知道吗？imzfx_Spuare是李奕帆将李帅的账号偷了改名而成的~~
