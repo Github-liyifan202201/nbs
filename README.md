@@ -1,6 +1,6 @@
 # 方块工作室🎉🎉🎉
 
-![](https://img.picui.cn/free/2024/06/09/666569e6c7623.png)
+![](https://cdn.luogu.com.cn/upload/image_hosting/qnboiw5v.png)
 
 ### 这是什么？
 
