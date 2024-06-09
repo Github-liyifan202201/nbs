@@ -1,13 +1,16 @@
-# 方块工作室
-## 背景  
+# 方块工作室🎉🎉🎉
+### 这是什么？
+![](https://cdn.luogu.com.cn/upload/usericon/661094.png) 
+![](https://cdn.luogu.com.cn/upload/usericon/926886) 
+![](https://cdn.luogu.com.cn/upload/usericon/936183) 
+![](https://cdn.luogu.com.cn/upload/usericon/1351126) 
+![](https://cdn.luogu.com.cn/upload/usericon/1032267) 
 
-  > 我们是2023（新方块，旧方块是2020）年成立，先后在洛谷建立[团队](https://www.luogu.com.cn/team/79310)，研发启动器 RMCL 和 C++ 的 GPT 接口，并且我们也是有~~丰富~~的出题经验，有的时候会举行比赛，欢迎来参加
+这是由 [liyifan202201](https://www.luogu.com.cn/user/661094)创立的
 
-## Luogu团队:
-
-  > [https://www.luogu.com.cn/team/79310](https://www.luogu.com.cn/team/79310)
-
-## RMCL
- 单个纯Cpp文件的Minecraft启动器巅峰
- 
- > [欢迎使用](https://github.com/Github-liyifan202201/RMCL)
+### 这里有谁？
+这是 NBS 的内部团队的总和，包括
+- NBS-OI 出题组，
+- NBS-MC 中 NMCL (老版本) 和 RMCL （即将重写的新版本）的编写组，
+- NBS-AI 的 GPT C++ api 项目开发组
+- 颓废组 & 吃瓜组
