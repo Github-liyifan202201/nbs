@@ -1,10 +1,10 @@
 # 方块工作室🎉🎉🎉
 ### 这是什么？
 ![](https://cdn.luogu.com.cn/upload/usericon/661094.png) 
-![](https://cdn.luogu.com.cn/upload/usericon/926886) 
-![](https://cdn.luogu.com.cn/upload/usericon/936183) 
-![](https://cdn.luogu.com.cn/upload/usericon/1351126) 
-![](https://cdn.luogu.com.cn/upload/usericon/1032267) 
+![](https://cdn.luogu.com.cn/upload/usericon/926886.png) 
+![](https://cdn.luogu.com.cn/upload/usericon/936183.png) 
+![](https://cdn.luogu.com.cn/upload/usericon/1351126.png) 
+![](https://cdn.luogu.com.cn/upload/usericon/1032267.png) 
 
 这是由 [liyifan202201](https://www.luogu.com.cn/user/661094)创立的
 
