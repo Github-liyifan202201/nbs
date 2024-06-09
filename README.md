@@ -1,12 +1,11 @@
 # 方块工作室🎉🎉🎉
-### 这是什么？
-![](https://cdn.luogu.com.cn/upload/usericon/661094.png) 
-![](https://cdn.luogu.com.cn/upload/usericon/926886.png) 
-![](https://cdn.luogu.com.cn/upload/usericon/936183.png) 
-![](https://cdn.luogu.com.cn/upload/usericon/1351126.png) 
-![](https://cdn.luogu.com.cn/upload/usericon/1032267.png) 
 
-这是由 [liyifan202201](https://www.luogu.com.cn/user/661094)创立的
+![](https://img.picui.cn/free/2024/06/09/666569e6c7623.png)
+
+### 这是什么？
+
+
+这是由 [liyifan202201](https://www.luogu.com.cn/user/661094)创立的一个团队
 
 ### 这里有谁？
 这是 NBS 的内部团队的总和，包括
