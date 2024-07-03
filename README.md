@@ -37,5 +37,5 @@
 [内部团队链接](https://www.luogu.com.cn/team/79310)
 
 ---
-
-STO Orz
+欢迎巨佬加入
+STO 你 Orz
