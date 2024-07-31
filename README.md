@@ -28,7 +28,7 @@
 1. **[RMCL - 全你谷最强启动器](https://github.com/Github-liyifan202201/RMCL)**：一个优化的 Minecraft 启动器，为玩家提供无缝游戏体验和丰富的模组支持。
 
 
-2. **[洛谷机器人](https://www.luogu.com.cn/paste/ji5ylkup)**：基于Python的聊天机器人项目，利用的GPT-3.5模型实现在洛谷私信实现智能对话功能。
+2. **[洛谷机器人](https://github.com/Github-liyifan202201/Luogu-Bot-GPT)**：基于Python的聊天机器人项目，利用的GPT-3.5模型实现在洛谷私信实现智能对话功能。
    
    
 4. **一个 MC 风格的操作系统** (咕咕)：正在开发中的基于 Minecraft 风格设计的操作系统，旨在结合游戏与计算机操作系统的创新和乐趣。
@@ -42,7 +42,7 @@
 - **[中集团信息组](https://www.luogu.com.cn/team/63637)**：负责为方块工作室提供大量优质的题目~~和巨佬~~。
 
 
-- **[中集团信息组](https://www.luogu.com.cn/team/84482#main)**：方块有史以来和主团队联系最近，并且出题最优的团队。
+- **[NBS-出题组](https://www.luogu.com.cn/team/84482#main)**：方块有史以来和主团队联系最近，并且出题最优的团队。
 
 
 我们鼓励各分团队之间的互动和合作，共同推动方块工作室的发展和壮大。
