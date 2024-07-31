@@ -28,7 +28,7 @@
 1. **[RMCL - 全你谷最强启动器](https://github.com/Github-liyifan202201/RMCL)**：一个优化的 Minecraft 启动器，为玩家提供无缝游戏体验和丰富的模组支持。
 
 
-2. **[Cpp_GPT - 在C++中内嵌的ChatGPT](https://www.luogu.com.cn/paste/ji5ylkup)**：基于C++的聊天机器人项目，利用开源的ChatGPT模型实现智能对话功能，适用于各种应用场景和平台。
+2. **[洛谷机器人](https://www.luogu.com.cn/paste/ji5ylkup)**：基于Python的聊天机器人项目，利用的GPT-3.5模型实现在洛谷私信实现智能对话功能。
    
    
 4. **一个 MC 风格的操作系统** (咕咕)：正在开发中的基于 Minecraft 风格设计的操作系统，旨在结合游戏与计算机操作系统的创新和乐趣。
