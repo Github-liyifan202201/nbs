@@ -45,7 +45,7 @@
 - **[NBS-出题组](https://www.luogu.com.cn/team/84482#main)**：方块有史以来和主团队联系最近，并且出题最优的团队。
 
   
-- **[GenGen队](https://www.luogu.com.cn/team/85363#member)**：汪汪！
+- **[GenGen队](GenGen)**：汪汪！
 
 
 我们鼓励各分团队之间的互动和合作，共同推动方块工作室的发展和壮大。
