@@ -10,9 +10,10 @@
 本团队在 [方块联邦]((https://github-liyifan202201.github.io/nbs/)) 之中，并且本团队团长和管理如下：
 
 团长： $\color{orange}{\textbf{General0826}}$
-- 分队管理
+
+分队管理：
 - $\color{red}{\textbf{liyifan202201}}$
-- $\color{orange}{\textbf{imzfx\_{}Square}}$
+- $\color{orange}{\textbf{imzfx\_Square}}$
 - $\color{orange}{\textbf{sLMxf}}$
 - $\color{lime}{\textbf{xzq4121}}$
 - $\color{red}{\textbf{汪汪队队长1}}$
