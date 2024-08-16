@@ -8,10 +8,10 @@
 
 本团队在 [方块联邦]((https://github-liyifan202201.github.io/nbs/)) 之中，并且本团队团长和管理如下：
 
-团长： $\color{orange}{\text{General0826}}$
+团长： $\color{orange}{\textbf{General0826}}$
 - 分队管理
 - $\color{red}{\textbf{liyifan202201}}$
-- $\color{orange}{\textbf{imzfx_Square}}$
+- $\color{orange}{\textbf{imzfx\_{}Square}}$
 - $\color{orange}{\textbf{sLMxf}}$
 - $\color{lime}{\textbf{xzq4121}}$
 - $\color{red}{\textbf{汪汪队队长1}}$
@@ -23,13 +23,13 @@
 
 <iframe src="https://lglg.top/870183" width="100%" height="600"></iframe>
 
-$\color{red}{\text{失败}}$
+$\color{red}{\textbf{失败}}$
 
 - 2024/7/28 10:49
 
 <iframe src="https://lglg.top/870801" width="100%" height="600"></iframe>
 
-$\color{lime}{\text{成功}}$
+$\color{lime}{\textbf{成功}}$
 
 ## 我们的交流区
 1. [投稿区：可以投稿题目，详见 投稿区；](https://www.luogu.com.cn/discuss/879822)
