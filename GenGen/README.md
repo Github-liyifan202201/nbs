@@ -1,6 +1,6 @@
-# GenGen 队官网
+# GenGen 队
  
-![求头图]()
+![求头图](26af0ce9bf7d446a740cd911291eb8d0.jepg)
 
 ## 关于我们 
 
