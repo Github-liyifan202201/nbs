@@ -1,6 +1,6 @@
 # [方块工作室](https://github-liyifan202201.github.io/nbs/)
 
-![方块工作室 Logo](qnboiw5v.png)
+![qnboiw5v.png](https://img.picui.cn/free/2024/08/16/66bf06b24fe7d.png)
 
 ## 关于我们
 
