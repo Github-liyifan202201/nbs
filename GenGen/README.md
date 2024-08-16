@@ -1,6 +1,6 @@
 # GenGen 队
 
-![头图](https://raw.githubusercontent.com/Github-liyifan202201/nbs/main/GenGen/26af0ce9bf7d446a740cd911291eb8d0.jpeg)
+![头图](26af0ce9bf7d446a740cd911291eb8d0.jpeg)
 
 ## 关于我们 
 
