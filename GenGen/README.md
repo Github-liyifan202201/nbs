@@ -39,31 +39,7 @@
 ## 我们的救援史
 
 - 2024/7/27 16:51
-/*- scrollbar -*/
-
-::-webkit-scrollbar {
-    width: 5px;
-    height: 5px;
-}
-::-webkit-scrollbar-thumb{
-    background-color: #999;
-    -webkit-border-radius: 5px;
-    border-radius: 5px;
-}
-::-webkit-scrollbar-thumb:vertical:hover{
-    background-color: #666;
-}
-::-webkit-scrollbar-thumb:vertical:active{
-    background-color: #333;
-}
-::-webkit-scrollbar-button{
-    display: none;
-}
-::-webkit-scrollbar-track{
-    background-color: #f1f1f1;
-}
-
-
+  
 <iframe src="https://lglg.top/870183" width="100%" height="600"></iframe>
 
 $\color{red}{\textsf{失败}}$
