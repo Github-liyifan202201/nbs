@@ -1,3 +1,5 @@
+# GenGen 队
+
 <head>
     <script type="text/x-mathjax-config">
     MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } });
@@ -15,7 +17,6 @@
     </script>
 </head>
 
-# GenGen 队
 
 ![](26af0ce9bf7d446a740cd911291eb8d0.jpeg)
 
