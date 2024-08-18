@@ -62,6 +62,8 @@ $\color{lime}{\textsf{成功}}$
 
 <iframe src="https://lglg.top/898233" width="100%" height="600"></iframe>
 
+$\color{lime}{\textsf{成功}}$
+
 ## 我们的交流区
 1. [投稿区：可以投稿题目，详见 投稿区；](https://www.luogu.com.cn/discuss/879822)
 2. [聊天区：可以尽情聊天、发布犇犇，允许适度魔怔，详见 聊天区；](https://www.luogu.com.cn/discuss/878815)
