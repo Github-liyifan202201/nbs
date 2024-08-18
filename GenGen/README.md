@@ -38,6 +38,10 @@
 
 ## 我们的救援史
 
+### 官方：
+
+由 $\color{orange}{\textsf{General0826}}$ 引导的救援活动
+
 - 2024/7/27 16:51
   
 <iframe src="https://lglg.top/870183" width="100%" height="600"></iframe>
@@ -49,6 +53,14 @@ $\color{red}{\textsf{失败}}$
 <iframe src="https://lglg.top/870801" width="100%" height="600"></iframe>
 
 $\color{lime}{\textsf{成功}}$
+
+### 非官方（民间）：
+
+由 $\color{red}{\textsf{FIRESTARS}}$ 和 $\color{orange}{\textsf{KukCair}}$ 引导的救援活动
+
+- 2024/8/18 11:24
+
+<iframe src="https://lglg.top/898233" width="100%" height="600"></iframe>
 
 ## 我们的交流区
 1. [投稿区：可以投稿题目，详见 投稿区；](https://www.luogu.com.cn/discuss/879822)
