@@ -1,4 +1,4 @@
-# [方块工作室](https://github-liyifan202201.github.io/nbs/)
+# [方块工作室](https://oi-liyifan202201.github.io/nbs/)
 
 ![qnboiw5v.png](qnboiw5v.png)
 
