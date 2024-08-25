@@ -18,7 +18,7 @@
 </head>
 
 
-![](https://github.com/OI-liyifan202201/nbs/blob/main/GenGen/26af0ce9bf7d446a740cd911291eb8d0.jpeg)
+![](26af0ce9bf7d446a740cd911291eb8d0.jpeg)
 
 ## About Us
 
