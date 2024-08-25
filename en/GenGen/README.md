@@ -1,7 +1,3 @@
-Here's the translation:
-
----
-
 # GenGen Team
 
 <head>
