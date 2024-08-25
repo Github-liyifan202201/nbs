@@ -1,7 +1,7 @@
 
 # [Block Studio](https://oi-liyifan202201.github.io/nbs/)
 
-![qnboiw5v.png](https://github.com/OI-liyifan202201/nbs/blob/main/qnboiw5v.png)
+![qnboiw5v.png](qnboiw5v.png)
 
 ## About Us
 
