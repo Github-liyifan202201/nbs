@@ -52,6 +52,8 @@ $\color{red}{\textsf{Failed}}$
 
 <iframe src="https://lglg.top/870801" width="100%" height="600"></iframe>
 
+$\color{red}{\textsf{This is the HOTTEST}}$
+
 $\color{lime}{\textsf{Successful}}$
 
 - 2024-08-19 16:52:39
