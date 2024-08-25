@@ -1,6 +1,3 @@
-Here's the English translation:
-
----
 
 # [Block Studio](https://oi-liyifan202201.github.io/nbs/)
 
