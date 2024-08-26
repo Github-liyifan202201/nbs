@@ -18,7 +18,7 @@
 </head>
 
 
-![](26af0ce9bf7d446a740cd911291eb8d0.jpeg)
+![](26af0ce9bf7d446a740cd911291eb8d0.jpg)
 
 ## About Us
 
